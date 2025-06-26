@@ -82,7 +82,7 @@ BOOK RECOMMENDATION SYSTEM/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Jnan-py/book-recommendation-system.git
+   git clone https://github.com/Fathima-78/book_recommendation_system.git
    cd book-recommendation-system
    ```
 
