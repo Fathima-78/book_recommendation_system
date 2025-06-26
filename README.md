@@ -83,7 +83,7 @@ BOOK RECOMMENDATION SYSTEM/
 
    ```bash
    git clone https://github.com/Fathima-78/book_recommendation_system.git
-   cd book-recommendation-system
+   cd book_recommendation_system
    ```
 
 2. **Install dependencies** (preferably within a virtual environment):
